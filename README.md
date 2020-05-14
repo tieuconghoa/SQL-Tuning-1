@@ -2,7 +2,7 @@
 
 # NGUYỄN THỊ HOÀI 
 
-Bài 1: Viết lệnh SQL từ kết quả EXPLAIN ANALYZE
+# Bài 1: Viết lệnh SQL từ kết quả EXPLAIN ANALYZE
 
 Yêu cầu 1:
 EXPLAIN ANALYZE SELECT actor.actor_id, actor.first_name, actor.last_name, actor.last_update
